@@ -1,0 +1,21 @@
+{
+   "productList": [
+      {
+         "id": 5,
+         "name": "anything"
+      },
+      {
+         "id": 2,
+         "name": "coller2",
+         "category": "appliance",
+         "price": 22000,
+         "color": "green"
+      },
+      {
+         "id": 1
+      },
+      {
+         "id": 5
+      }
+   ]
+}
